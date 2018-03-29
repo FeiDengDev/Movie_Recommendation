@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.recommendation.ALSModel","timestamp":1522087967764,"sparkVersion":"2.2.1","uid":"ALS_4608adda0d3605f3be18","paramMap":{"userCol":"userId","itemCol":"movieId","coldStartStrategy":"nan","predictionCol":"prediction"},"rank":20}
